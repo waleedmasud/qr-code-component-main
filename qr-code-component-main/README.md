@@ -17,7 +17,7 @@ The QR code component displays a QR code image that users can scan to visit the 
 
 ## Screenshot
 
-![QR Code Component](./qr-code-component-main/images/screenshot.png)
+![QR Code Component](./qr-code-component-main/images/screenshot.jpg)
 
 *Screenshot of the QR code component.*
 
